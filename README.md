@@ -9,7 +9,7 @@ Tecnologias utilizadas:
 - Numpy 1.19.5
 
 Fluxograma:
-![Fluxograma crawler](https://github.com/rafaelbcastilhos/webscraping-jobhunter/blob/main/model_infra.png?raw=true)
+![Fluxograma crawler](https://raw.githubusercontent.com/rafaelbcastilhos/webscraping-jobhunter/main/model_infra.png)
 
 Seeds utilizadas:
 - [StackOverflow Jobs](https://stackoverflow.com/jobs)
